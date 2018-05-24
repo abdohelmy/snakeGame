@@ -1,2 +1,2 @@
 # snakeGame
-a simple snake game using 
+a simple snake game using opgengl
